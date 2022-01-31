@@ -5,3 +5,25 @@ padding: 0;
 margin: 0;
 box-sizing: border-box;
 }
+
+/* fine reset */
+
+header {
+  height:125px;
+  background-image: url('immagini/pattern.png');
+  background-repeat: repeat;
+  background-size: cover;
+  background-size: 36%;
+  background-color: #4EA0FF;
+}
+
+.central {
+    width: 75%;
+    margin: auto;
+;
+}
+
+.logo {
+    padding-top: 4%;
+    
+}
