@@ -57,3 +57,25 @@ h1 {
 }
 
 /* fine titolo e data */
+
+
+/* sezione foto e desrcizione */
+
+.photo {
+height:500px ;    
+}
+
+.foto-didascalia {
+    font-size: 0.8em;
+}
+
+/* fine sezione foto e descrizione */
+
+
+/* sezione primo paragrafo */
+
+.sottolineato {
+    background-color: yellow;
+}
+
+/* fine sezione primo paragrafo */
