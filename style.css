@@ -4,58 +4,6 @@
 padding: 0;
 margin: 0;
 box-sizing: border-box;
-}
-html{
-    font-size: 18px;
-}
+
 /* fine reset */
 
-h1 {
-    font-size: 2.6em;
-}
-
-header {
-  height:125px;
-  background-image: url('immagini/pattern.png');
-  background-repeat: repeat;
-  background-size: cover;
-  background-size: 36%;
-  background-color: #4EA0FF;
-}
-
-.central {
-    width: 80%;
-    margin: auto;
-;
-}
-
-.logo {
-    padding-top: 4%;
-    
-}
-
-.info-titolo {
-    font-size:1.3em;
-    color: grey;
-    f
-}
-
-#booleaner {
-    color:  #20A9E5;
-}
-
-#data {
-    font-size: 0.9em;
-}
-
-section {
-    margin: 20px;
-}
-
-.info-foto {
-    font-size: 0.8em;
-}
-
-.sottolineato {
-    background-color: yellow;
-}
