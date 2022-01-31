@@ -79,3 +79,12 @@ height:500px ;
 }
 
 /* fine sezione primo paragrafo */
+
+
+/* secondo paragrafo (elenco puntato) */
+
+ul {
+    padding: 20px;
+}
+
+/* fine secondo paragrafo (elenco puntato) */
