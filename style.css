@@ -9,7 +9,7 @@ box-sizing: border-box;
 
 /* striscia iniziale con logo */
 
-header {
+#sfondo-alto {
   height: 150px;
   background-image: url('immagini/pattern.png');
   background-repeat: repeat;
