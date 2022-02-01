@@ -88,3 +88,24 @@ ul {
 }
 
 /* fine secondo paragrafo (elenco puntato) */
+
+
+/* terzo paragrafo tabella */
+
+.tabella {
+    font-size: 00.8em;
+}
+
+.prima-riga {
+    background-color: #20A9E5;
+}
+
+.riga-blu {
+    background-color: #B1E5F2;
+}
+
+.riga-bianca {
+    background-color: white;
+}
+
+/* fine terzo paragrafo tabella  */
