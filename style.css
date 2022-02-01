@@ -94,18 +94,31 @@ ul {
 
 .tabella {
     font-size: 00.8em;
+    text-align: left;
+    border-spacing: 0;
+    
 }
 
+table {
+    border-spacing: 0;
+}
 .prima-riga {
     background-color: #20A9E5;
+    
 }
 
 .riga-blu {
     background-color: #B1E5F2;
+   
 }
 
 .riga-bianca {
     background-color: white;
+    
+    
 }
 
 /* fine terzo paragrafo tabella  */
+
+
+/* quarto paragrafo con sottolineato */
