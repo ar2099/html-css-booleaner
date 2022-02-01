@@ -122,3 +122,39 @@ table {
 
 
 /* quarto paragrafo con sottolineato */
+/* niente da scrivere */
+
+/* quinto paragrafo */
+
+#interesse {
+    color: grey;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+.scritta-banner {
+    color: white;
+    font-size: 1.2em;
+    padding: 6px;
+}
+
+#foto-basse {
+    background-image: url(immagini/monitor.jpg);
+    height: 200px;
+    width: 230px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 10px;
+    margin-top: 5px;
+}
+
+#foto-basse2 {
+    background-image: url(immagini/graph.jpg);
+    height: 200px;
+    width: 230px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 10px;
+}
